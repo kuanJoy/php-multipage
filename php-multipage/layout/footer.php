@@ -4,7 +4,7 @@
         <a href="#" class="footer_media">
             <img src="./assets/img/icon/social_media.svg" alt="">
         </a>
-        <p class="rights">All Rights Reserved 2018</p>
+        <p class="rights">All Rights Reserved 2023</p>
     </div>
 
 </footer>
